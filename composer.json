@@ -1,5 +1,5 @@
 {
-    "name": "elazar/flystream",
+    "name": "andriymartirosov/flystream",
     "description": "PHP stream wrapper for Flysystem v2 and v3",
     "type": "library",
     "license": "MIT",
